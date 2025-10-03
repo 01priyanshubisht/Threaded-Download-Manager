@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project demonstrates a multithreaded file downloader in C++ using the `libcurl` library for HTTP requests and the `indicators` library for progress visualization. The application allows downloading multiple files concurrently with progress bars showing the download status for each file.
+This project demonstrates a Threaded Download Manager in C++ using the `libcurl` library for HTTP requests and the `indicators` library for progress visualization. The application allows downloading multiple files concurrently with progress bars showing the download status for each file.
 
 ## Features
 

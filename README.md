@@ -1,4 +1,4 @@
-# C++ Multithreading Downloader
+# Threaded Download Manager
 
 ## Screenshot
 
